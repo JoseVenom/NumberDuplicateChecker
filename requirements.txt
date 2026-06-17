@@ -1,0 +1,4 @@
+python-telegram-bot>=20.0
+google-cloud-drive>=1.0
+google-auth-oauthlib>=0.8.0
+google-auth-httplib2>=0.2.0
