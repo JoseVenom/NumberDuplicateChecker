@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 import logging
 from google.oauth2.service_account import Credentials
-from google.cloud import drive_v3
+# from google.cloud import drive_v3
 
 # Enable logging
 logging.basicConfig(
